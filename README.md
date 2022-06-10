@@ -69,3 +69,26 @@
     - https://reactrouter.com/docs/en/v6/getting-started/overview#index-routes
 - React + Typescript:
     - https://www.typescriptlang.org/docs/handbook/react.html
+-----
+### Level 4:
+- Design Pattern Classification and Architectural Patterns:
+    - https://www.sitepoint.com/react-architecture-best-practices/
+    - https://www.taniarascia.com/react-architecture-directory-structure/
+    - https://medium.com/geekculture/react-js-architecture-features-folder-structure-design-pattern-70b7b9103f22
+    - https://atomicdesign.bradfrost.com/chapter-2/
+- React Optimization:
+    - https://reactjs.org/docs/reconciliation.html
+    - https://reactjs.org/docs/optimizing-performance.html
+    - https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba
+- Web Components:
+    - https://www.webcomponents.org/introduction
+    - https://channel9.msdn.com/Shows/webdevshow/4/
+    - https://dev.to/nilanth/react-architecture-for-enterprise-application-3pnh
+- JEST:
+    - https://reactjs.org/docs/testing.html
+    - https://reactjs.org/docs/testing.html
+    - https://jestjs.io/
+- Others:
+    - https://medium.com/@pavelray/connect-your-react-app-with-azure-ad-using-3ddd39223d27
+    - https://blog.netcetera.com/how-to-create-guarded-routes-for-your-react-app-d2fe7c7b6122
+=====
